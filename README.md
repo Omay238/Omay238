@@ -1,4 +1,4 @@
-Hello! I'm currently working on a game engine. You can reach me at 238maculo238@gmail.com for personal, and omay.operationssai@gmail.com to join omay operations.
+Hello! I'm currently working on a game engine.
 
 <!--
 **Omay238/Omay238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
