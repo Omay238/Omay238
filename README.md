@@ -1,4 +1,9 @@
-## Hi there 👋
+## OwOmay
+###### (hello)
+
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=1124&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave)
+
+A lot of what I do is web and game dev, although I like doing anything!
 
 <!--
 **Omay238/Omay238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
