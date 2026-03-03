@@ -6,29 +6,32 @@ it's been a while since i've updated this! i've been doing a lot of stuff, like 
 i'm passionate about game development, although i love doing anything.
 
 ### my languages
- - javascript
+ - javascript (or typescript)
  - python
  - rust
  - lua
- - gdscript
+ - godot (through gdscript)
  - html
- - css
+ - css (or scss)
 
 
 ### what i'm working on
 currently, i'm working on a couple of pretty neat things (in my opinion, but of course).
 
-there's my main games, [_gooberts spoopy world_](https://github.com/Omay238/gooberts-spoopy-world) and _the worlds prisoner_  
-also, i'm working on [_a modloader_](https://github.com/Godot-Modding) for godot  
-and a [_retro chat app_](https://github.com/halcyon-chat)!
+i'm working on a pretty cool windows 9x styled [website](https://github.com/Omay238/Omay238.github.io).
+
+### what i've worked on
+i've made a couple things that i'd consider complete or at least mostly complete.
+
+there's [irk](https://github.com/Omay238/irk) which is an IRC library in rust.
+then [libpbm](https://github.com/Omay238/libpbm) which is a library for generating NetPBM images in rust.
+finally, not a library, [fsscene](https://owomay.dev/fsscene) which is a helper for this really neat game called [FALLSTRUKTUR](https://store.steampowered.com/app/3674270/FALLSTRUKTUR/).
 
 ### online
-check out my [website (wip)](https://omay238.github.io/), [itch](https://omay238.itch.io/), [discord](https://discord.gg/xtupcxt84n), or [matrix](https://matrix.to/#/#owomay:matrix.org)!
+check out my [website (wip)](https://owomay.dev/), [itch](https://omay238.itch.io/), [discord](https://discord.gg/xtupcxt84n), [tumblr](https://owomay.tumblr.com/), <ins>email (it's "owomay [at] owomay.dev")</ins> or [xmpp](xmpp:@owomay@07f.de)!
 
 ### contact
-discord is what i'm most active on (i'm the owner on the server above), but you can also try on [bluesky](https://bsky.app/profile/owomay.bsky.social), [mastodon](https://woof.tech/@owomay), or [matrix](https://matrix.to/#/@omay238:matrix.org)  
-
-![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1124&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave)
+discord is what i'm most active on (i'm the owner on the server above), but you can also try on [bluesky](https://bsky.app/profile/owomay.bsky.social), [mastodon](https://woof.tech/@owomay),  
 
 <!--
 **Omay238/Omay238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
