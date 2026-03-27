@@ -18,13 +18,13 @@ i'm passionate about game development, although i love doing anything.
 ### what i'm working on
 currently, i'm working on a couple of pretty neat things (in my opinion, but of course).
 
-i'm working on a pretty cool windows 9x styled [website](https://github.com/Omay238/Omay238.github.io).
+i'm working on a pretty cool windows 9x styled [website](https://github.com/OwOmay/OwOmay.github.io).
 
 ### what i've worked on
 i've made a couple things that i'd consider complete or at least mostly complete.
 
-there's [irk](https://github.com/Omay238/irk) which is an IRC library in rust.
-then [libpbm](https://github.com/Omay238/libpbm) which is a library for generating NetPBM images in rust.
+there's [irk](https://github.com/OwOmay/irk) which is an IRC library in rust.
+then [libpbm](https://github.com/OwOmay/libpbm) which is a library for generating NetPBM images in rust.
 finally, not a library, [fsscene](https://owomay.dev/fsscene) which is a helper for this really neat game called [FALLSTRUKTUR](https://store.steampowered.com/app/3674270/FALLSTRUKTUR/).
 
 ### online
